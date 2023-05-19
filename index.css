@@ -1,0 +1,26 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+h1{
+    font-size: 30px;
+    color:rgb(255, 166, 0);
+}
+button{
+    margin-top: 20px;
+}
+img{
+    margin: 0 auto;
+}
+a{
+    color: rebeccapurple;
+    text-decoration: none;
+}
+li:link,
+li:visited {
+    font-weight: bold;
+}
+
+li:hover {
+    color:rgb(46, 230, 0);
+} 
